@@ -1,0 +1,343 @@
+body{
+    padding:0px;
+    margin:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    background-color: transparent;
+    width: 100%;
+}
+
+.logo{
+    padding-top: 7px;
+    padding-left: 20px;
+    display: inline-block;
+    color:white;
+        }
+.finecomputers{
+    margin: 0px;
+    padding:-5px;
+    color:white;
+    text-decoration: none;
+    font-size: 38px;
+    letter-spacing: 5px;
+    font-weight: bold;
+font-family: cursive;
+text-shadow: 12px 6px 2px black;
+}
+
+.links{
+    padding-top:15px;
+    height: 20px;
+    float: right;
+}
+.links table tr td a {
+    font-weight: thick;
+    color:white;
+    text-decoration: none;
+    font-size: 19px;
+    border:1px solid transparent;
+    padding:8px;
+    }
+    .links table tr td a:hover {
+        border-radius:5px;
+        background-color:lightsalmon;
+        transition: 1s ease;
+        color: white;
+    }
+    #DP{
+        padding: 8px;
+        background-color:transparent ;
+        outline: 0px solid #ffba66;
+        color:white;
+        font-size: 19px;
+        font-weight: thick;
+        border:1px solid transparent;
+        
+        
+    }
+    #DP:hover{
+        border-radius:5px;
+        background-color:lightsalmon;
+        transition: 1s ease;
+        color: white;
+    }
+    .searchbox{
+        margin: 75px auto ;
+        margin-left: 450px;
+    }
+    .searchbox1{
+        padding:12px;
+        margin-left: 15px;
+        padding-left: 5px;
+    background-color: #f5f5f5;
+    border: none;
+    width:300px;
+}
+.searchbox2{
+    padding:10px 20px;
+    background-color: orange;
+    border: none;
+    color:white;
+    text-decoration: none;
+}
+.searchbox2:hover{
+background-color: darkorange;
+}
+.bastard{
+    width: 100%;
+    height: 625px;
+    background-image:url("../images/Logitech-G560-PC-Gaming-Speaker-8.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.headphone, .gamecontrollers,.graphiccards,.memorycards,.usb,.laptopscool,.androidtvbox,.printers,.keyboards,.desktopmicro,.minikeyboards,.chromecast{
+    padding: 0px;
+    margin-top: 10px;
+    width:33%;
+    height:455px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    float:left
+}
+.headphone1 , .gamecontrollers1 ,.graphiccards1 ,.memorycards1 ,.usb1 ,.laptopscool1 ,.androidtvbox1 ,.printers1 ,.keyboards1 ,.desktopmicro1,.chromecast1 {
+    width:100%;
+    height:auto;
+}
+.chromecast{
+    background-image: url("../images/SmartTv-Chromecast-Sugestowo-823x400.jpg");
+}
+.headphone{
+    background-image: url("../images/Beats-Solo-2-OnEar-Headphones-Luxe-Edition-IMG-01.jpg");
+
+}
+.androidtvbox{
+
+    background-image: url("../images/How-to-Hide-IP-on-Android-TV-Box-e1485336561394.jpeg");
+    
+}
+.androidtvbox a{
+    color:black;
+    text-align:center;
+    text-shadow:orange 12px 3px 12px;
+    text-decoration: none;
+    
+}
+.graphiccards{
+    background-image: url("../images/radeon hd 6950.jpg");
+    
+}
+.printers{
+    background-image: url("../images/468065-canon-pixma-tr8520-wireless-home-office-all-in-one-printer.jpg");
+}
+.gamecontrollers{
+    background-image: url("../images/711719211983_5.png");
+}
+.memorycards{
+    background-image: url("../images/Samsung EVO PRO Plus line.jpg");
+}
+.laptopscool{
+    background-image: url("../images/91KLCl8-jtL._SL1500_.jpg");
+}
+.usb{
+    background-image: url("../images/Pdpgallery-muf-128ba-am-600x600-C1-052016.jpg");   
+}
+.keyboards{
+    background-image: url("../images/asus-ceberus-mech-rgb-mekanisk-keyboard.jpg");   
+}
+.desktopmicro{
+    background-image: url("../images/desktop-microphone1.jpg");   
+}
+.minikeyboards{
+    background-image: url("../images/aerb-mini-keyboard.jpg");   
+}
+
+.de{
+    padding-top: 110px;
+    color:white;
+    font-size: 450%;
+    text-align: center;
+    font-weight: thick;
+    height: 120px;
+    text-shadow: black 8px 4px 10px ;
+}
+.oi{
+    text-align: center;
+    font-size: 120%;
+    display: inline-block;
+    margin-left: 500px;
+}
+.oi input{
+    height:25px;
+    width: 250px;
+    padding: 5px;
+}
+.gs{
+    margin-left: 45px;
+    display: inline-block;
+    text-align: center;
+}
+.gs a{
+    width:200px;
+    text-decoration: none;
+    color:white;
+    background-color: transparent;
+    text-align: center;
+    padding:10px 20px 10px 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.gs a:hover{
+    color: black;
+    background-color:gainsboro;
+    border: 1px solid black;
+    font-weight: bold;
+    
+}
+.cu{
+    margin-top: 0px;
+    background-color: lightcyan;
+    text-align: center;
+    height: 300px;
+    padding-top: 50px;
+    font-size: 130%;
+    width:100%;
+    float:right;
+}
+
+.cr{
+    width:100%;
+    padding-top: 60px;
+    height: 100px;
+    color:grey;
+    text-align: center;
+    font-size: 90%;
+    float: right;
+}
+.left{
+    width:50%;
+}
+.right{
+    width: 50%;
+}
+
+@media (max-width:500px){
+    #DP{
+        padding: 3px;
+        background-color:transparent ;
+        color:white;
+        font-size: 19px;
+        font-weight: thick;
+        border:1px solid transparent;
+        
+        
+    }
+    #DP:hover{
+        border-radius:5px;
+        background-color:lightgray;
+        transition: 1s ease;
+        color: white;
+    }
+    .links table tbody tr td a{
+        display: block;
+        padding: 0px;
+        float: none;
+        width:100%;
+    }
+    .links table tbody tr td a:hover{
+        background-color: lightgray;
+    }
+    .logo{
+        float: none;
+        width:100%;
+        margin:0px;
+        padding: 0px;
+    }
+    
+    
+    .oi{
+        text-align: center;
+        font-size: 120%;
+        display: block;
+        margin:0px;
+
+    }
+    .oi input{
+        height:25px;
+        width: 75%;
+        padding: 5px;
+    }
+    .gs{
+        margin-top:15px; 
+        margin-bottom:140px; 
+        display: inline-block;
+        text-align: center;
+    }
+    .gs a{
+        text-align: center;
+        text-decoration: none;
+        color:white;
+        background-color: transparent;
+        text-align: center;
+        padding:10px 20px 10px 20px;
+        border: 1px solid white;
+        border-radius: 20px;
+    }
+    
+    .de{
+        padding-top: 110px;
+        color:white;
+        font-size: 250%;
+        text-align: center;
+        font-weight: thick;
+        height: 120px;
+        text-shadow: black 8px 4px 10px ;
+    }
+    .bastard{
+        width: 100%;
+        height: auto;
+        background-image:url("../images/Wallpapers-For-Galaxy-S4-Abstract-1110.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+        margin-bottom: 250px;
+    }
+    .searchbox{
+        margin-top: -250px ;
+        margin-left: 0px;
+        background-color: #222222;
+    }
+    .searchbox1{
+        width: 50%;
+        margin: 12px 00px;
+        margin-left: 30px;
+        padding:10px;
+        padding-left: 0px;
+        background-color: #f5f5f5;
+        border: none;
+    }
+    .searchbox2{
+        margin: 0px;
+        margin-top: 25px;
+        padding:8px 16px;
+        background-color: orange;
+        border: none;
+        color:white;
+        text-decoration: none;
+    }
+    .searchbox2:hover{
+        background-color: darkorange;
+    }
+    .headphone, .gamecontrollers,.graphiccards,.memorycards,.usb,.laptopscool,.androidtvbox,.printers,.keyboards,.desktopmicro,.minikeyboards,.chromecast{
+        padding-top: 10px;
+        margin-top: 60px;
+        width:100%;
+        height:250px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        
+    }
+    .cu{
+        margin-top: 60px;
+    }
+    
+} 
